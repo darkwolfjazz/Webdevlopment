@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+}
+.second{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.first{
+  background-color: #f21170;
+
+
+}
+.third{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+}
